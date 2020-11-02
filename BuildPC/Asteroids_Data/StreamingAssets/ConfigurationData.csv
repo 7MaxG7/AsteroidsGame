@@ -1,0 +1,10 @@
+ShipThrustForce,10
+ShipRotationSpeed,180
+BulletLifeTime,2
+AsteroidsSpawnTime,5
+AsteroidAngleMoveDeviation,30
+MinAsteroidMagnitude,2
+MaxAsteroidMagnitude,3
+DifficultyChangeTime,20
+DifficultySpawnTimeMultiplicator,0.2
+DifficultyMagnitudeMultiplicator,0.2
